@@ -1,0 +1,5 @@
+
+streamlit
+gtts
+python-pptx
+pyttsx3
